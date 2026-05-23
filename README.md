@@ -1,4 +1,4 @@
-## Estudiante de Ingeniería en Sistemas de la Información, Docente Adscripto en Informática del Instituto Politécnico Superior 
+## Estudiante de Ingeniería en Sistemas de la Información - Docente Adscripto en Informática del Instituto Politécnico Superior Gral. San Martín
 
 <!--
 **Fbrizio06/Fbrizio06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
