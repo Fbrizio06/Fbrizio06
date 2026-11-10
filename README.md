@@ -48,4 +48,4 @@
 
 ## 📫 Contacto
 
-¿Charlamos? Escribime por [LinkedIn]([https://www.linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/fabrizio-pistarelli/)) o por [email](mailto:fabriziopistarelli@gmail.com).
+¿Charlamos? Escribime por [LinkedIn]((https://www.linkedin.com/in/fabrizio-pistarelli/)) o por [email](mailto:fabriziopistarelli@gmail.com).
